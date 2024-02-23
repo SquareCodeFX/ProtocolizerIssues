@@ -8,7 +8,13 @@
    {
       "name":"1.0.2",
       "release":"1708290169506",
-      "latest":true,
+      "latest":false,
       "hash":"d009c7b925e3097f1b36186672b9f9f9045549c2673577070e02722c63d77da6"
+   },
+   {
+      "name":"1.0.3",
+      "release":"1708713602006",
+      "latest":true,
+      "hash":"a69f4920ea9c409194120afe4a39f206226fd0ed348081b56fe16b992f5857df"
    }
 ]
