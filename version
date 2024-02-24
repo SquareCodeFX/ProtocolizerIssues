@@ -20,7 +20,13 @@
    {
       "name":"1.0.3.1",
       "release":"1708769143274",
-      "latest":true,
+      "latest":false,
       "hash":"92e7a2debde9739b448b01e96a0f9c2c9999aa68e789bdf7c79f66c33ecc3ec3"
-   }
+   }.
+   {
+      "name":"1.0.3.2",
+      "release":"1708777547906",
+      "latest":true,
+      "hash":"114ad2a76719fd9fc0389bb8e6ab1be090e2b3d180e1be90ea58402c54c9926b"
+   }   
 ]
