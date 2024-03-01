@@ -62,7 +62,13 @@
    {  
       "name":"1.0.7",
       "release":"1709137459775",
-      "latest":true,
+      "latest":false,
       "hash":"25eb88903e56072c1d2473045347629b1018279b072f9be6fbe9c5258cd044f3"
+   },
+   {  
+      "name":"1.0.8",
+      "release":"1709322494957",
+      "latest":true,
+      "hash":"175afc69936cfbdbcaad49276aa50e28fc8c7c687c817dd7d719f314dadbc4bb"
    }
 ]
